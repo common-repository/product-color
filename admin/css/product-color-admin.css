@@ -1,0 +1,48 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.wpc-head-title h2{
+    background: #2c3338;
+    color: #fff;
+    padding: 14px 18px;
+    border-radius: 5px 5px 0px 0px;
+    margin: 0;
+}
+.wpc-head-section-main,
+.wpc-color-submit{
+    margin-top: 20px;
+}
+.wpc-color-label{
+    background: #fff;
+    padding: 40px 40px;
+    border-radius: 0px 0px 5px 5px;
+}
+.wpc-label-color-section {
+    display: flex;
+}
+.wpc-lable-title {
+    width: 20%;
+    padding-top: 8px;
+}
+.wpc-color-input {
+    width: 100%;
+}
+.wpc-lable-title label {
+    font-weight: 700;
+}
+.wpc-color-input p {
+    margin: 0;
+    padding-bottom: 30px;
+}
+.wpc-color-submit input {
+  background: #2c3338 !important;
+  padding-top: 5px !important;
+  padding: 6px 26px !important;
+  border-color: #2c3338 !important;
+  font-size: 15px !important;
+}
+.wpc-color-submit input:hover {
+  background: #fff !important;
+  color: #000 !important;
+}
